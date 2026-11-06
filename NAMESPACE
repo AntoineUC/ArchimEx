@@ -1,0 +1,5 @@
+exportPattern("^[^\\.]")
+importFrom("stats", "median")
+importFrom("stats", "cor", "pnorm", "qnorm", "quantile", "sd", "uniroot")
+importFrom("Deriv", "Deriv")
+importFrom("copula", "rCopula", "debye1", "claytonCopula", "frankCopula", "gumbelCopula", "joeCopula")
